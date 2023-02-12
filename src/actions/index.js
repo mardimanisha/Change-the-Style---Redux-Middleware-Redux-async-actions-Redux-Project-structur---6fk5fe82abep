@@ -1,5 +1,3 @@
-
-
 export const changeColor=(a)=>{
    if(a=="red") {return{
         type:"RED"
